@@ -9,6 +9,7 @@
 - [Section auteur](#section-auteur)
 
 ## Scénario
+![GrandMarché](/assets/grandmarche.png)
 En tant que Data Analyst au service Marketing du Grand Marché, une entreprise de grande distribution, j'ai produit un rapport mensuel des actions marketing de mon équipe et une anamyse des clients affiliés.
 
 ## Objectifs et compétences
@@ -27,7 +28,9 @@ En tant que Data Analyst au service Marketing du Grand Marché, une entreprise d
 Le projet est organisé comme suit :
 - **Donnees_initiales** : Contient la trame vierge des rapports mensuels.
 - **Livrables** : Contient le fichier Excel avec les chiffres réels du mois.
-- **presentation.pdf**, **presentation.odp** : PowerPoint présentant ma démarche et mes conseils 
+- **presentation.pdf**, **presentation.odp** : PowerPoint présentant ma démarche et mes conseils
+- **_assets_** : Fichiers utile à la mise en page Github
+
 
 ## Sources de données
 Les données proviennent de l'activité commerciale du Grand Marché.
